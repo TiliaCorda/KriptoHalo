@@ -1,5 +1,5 @@
 # KriptoHalo
-Wiki a kriptovalutákról és a blokkklánc technológiáról magyarul
+Wiki a kriptovalutákról és a blokklánc technológiáról magyarul
 
 This is a hungarian language project. Non-linear document from cryptocurrencies.
 
